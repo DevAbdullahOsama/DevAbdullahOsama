@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Abdullah Osama and I'm a Full-Stack Web developer from Sohag but iam living in alex</p>
+<p align="left">My name is Abdullah Osama and I'm a Full-Stack Web developer from Sohag but i'm living in alex</p>
 
 ###
 
