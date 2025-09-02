@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hiii 👋, Welcome to my github account</h2>
+<h1 align="left">Hiii 👋, Welcome to my github account</h1>
 
 ###
 
