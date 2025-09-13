@@ -12,10 +12,6 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTk0a3Iyc2Q3MjdhYW9samdueXQ4dG94MGdxdjY1NTRoaThxOW1qdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
-
-###
-
 <h2 align="left">Technologies👨🏻‍💻</h2>
 
 ###
@@ -54,6 +50,18 @@
 
 ###
 
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTk0a3Iyc2Q3MjdhYW9samdueXQ4dG94MGdxdjY1NTRoaThxOW1qdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevAbdullahOsama/DevAbdullahOsama/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevAbdullahOsama/DevAbdullahOsama/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DevAbdullahOsama/DevAbdullahOsama/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <h2 align="left">Contact me🤝</h2>
 
 ###
@@ -75,13 +83,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevAbdullahOsama/DevAbdullahOsama/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevAbdullahOsama/DevAbdullahOsama/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DevAbdullahOsama/DevAbdullahOsama/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
